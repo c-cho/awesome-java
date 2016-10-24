@@ -865,6 +865,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [TheServerSide.com](http://www.theserverside.com/)
 * [Vanilla Java](https://vanilla-java.github.io/)
 * [Voxxed](https://www.voxxed.com/)
+* [Javarevisited](http://javarevisited.blogspot.com)
+* [Java67](http://www.java67.com/)
 
 # Contributing
 
